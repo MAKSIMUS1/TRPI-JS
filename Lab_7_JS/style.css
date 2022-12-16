@@ -1,0 +1,25 @@
+.darts
+{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 150px;
+    border-bottom: 4px solid red;
+}
+.dartsimg
+{
+    width: 150px;
+}
+.ball
+{
+    margin-top: 150px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.ballimg
+{
+    width: 50px;
+}
